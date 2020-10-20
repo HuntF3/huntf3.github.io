@@ -2,9 +2,10 @@ body {
     background-color:#108728;
 }
 h1 {
-       color: black;
-       text-align: center;
-       font-style: oblique;
+    font-size:100px;
+        color:#000000
+        text-align: center;
+        font-style: oblique;
     }
 p {fancy
     font-family: verdana;
