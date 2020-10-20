@@ -11,8 +11,14 @@ h2 {
     font-size:75px;
     color:#000000
     text-align:center;
-    font-style:olique;
+    font-style:oblique;
 }
+h3 {
+    font-size:75px;
+    color:#000000
+    text-align:left;
+    font-style:oblique;
+} 
 ul.nav li a{
     display:inline-block;
     padding:10px;
