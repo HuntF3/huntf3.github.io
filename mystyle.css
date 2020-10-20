@@ -1,9 +1,12 @@
-h1{
-    p.fancy{
-       color:#666;
+body {
+    background-color:#108728;
+}
+h1 {
+       color: black;
+       text-align: center;
        font-style: oblique;
     }
- background-color:#333;
- color:#fff;
- font-size:3m;
+p {fancy
+    font-family: verdana;
+    font-size: 20px
 }
