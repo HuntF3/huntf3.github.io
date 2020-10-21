@@ -52,7 +52,6 @@ div.column{
   float: left;
   width: 180px;
 }
-div.bookcovers{
-    margin-left: auto;
-    margin-right: auto;
+#bookcovers{
+    justify-content:center;
 }
