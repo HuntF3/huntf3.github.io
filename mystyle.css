@@ -53,5 +53,6 @@ div.column{
   width: 180px;
 }
 div.bookcovers{
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
