@@ -47,8 +47,11 @@ h2 {
         font-style:oblique        
     }
 div.column{
-    margin: auto;
+    margin: 7px;
   border: 1px solid #ccc;
   float: left;
   width: 180px;
+}
+div.bookcovers{
+    margin: auto;
 }
