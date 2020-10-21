@@ -27,4 +27,7 @@ table, td{
 table{
     border-collapse:collapse;
 }
-    
+td{
+    padding:20px;
+    text-align:center;
+}
