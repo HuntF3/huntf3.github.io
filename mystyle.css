@@ -26,8 +26,12 @@ table, td{
 }
 table{
     border-collapse:collapse;
+    padding:10px;
 }
 td{
     padding:20px;
     text-align:center;
+}
+iframe{
+    padding:10px;
 }
