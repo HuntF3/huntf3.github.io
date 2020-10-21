@@ -38,6 +38,5 @@ p{
     padding:10px;
 }
 a.newpage{
-    padding:10px;
-    color:#b36a38;
+    display:inline-block;
 }
