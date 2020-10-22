@@ -39,6 +39,7 @@ p{
 }
 a.newpage{
     display:inline-block;
+    margin-bottom: 30px;
 }
 h2 {
     font-size:100px;
